@@ -5,6 +5,11 @@ namespace Course {
     class Program {
         static void Main(string[] args) {
 
+            /* O usuário entrará com as medidas de dois triângulos
+             * e o programa calculará a área dos mesmos, retornando
+             * ao usuário os valores e qual triângulo possui a maior
+             * área em comparação ao outro. */
+
             Triangulo x, y;
 
             x = new Triangulo();
